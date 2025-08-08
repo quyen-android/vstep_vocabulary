@@ -1,0 +1,54 @@
+{
+  "title": "Ảnh hưởng tích cực và tiêu cực của truyền thông và học tập",
+  "tuvung": [
+    {
+      "tuvung": "media",
+      "dongnghia": ["news outlets", "communication platforms"],
+      "loaitu": "n",
+      "nghiatiengviet": "phương tiện truyền thông"
+    },
+    {
+      "tuvung": "negative",
+      "dongnghia": ["bad", "harmful"],
+      "loaitu": "adj",
+      "nghiatiengviet": "tiêu cực"
+    },
+    {
+      "tuvung": "positive",
+      "dongnghia": ["good", "beneficial"],
+      "loaitu": "adj",
+      "nghiatiengviet": "tích cực"
+    },
+    {
+      "tuvung": "effect",
+      "dongnghia": ["impact", "result"],
+      "loaitu": "n",
+      "nghiatiengviet": "ảnh hưởng"
+    },
+    {
+      "tuvung": "performance at school",
+      "dongnghia": ["academic performance"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "kết quả học tập ở trường"
+    },
+    {
+      "tuvung": "prepare",
+      "dongnghia": ["get ready", "plan ahead"],
+      "loaitu": "v",
+      "nghiatiengviet": "chuẩn bị"
+    },
+    {
+      "tuvung": "encourage",
+      "dongnghia": ["support", "motivate"],
+      "loaitu": "v",
+      "nghiatiengviet": "khuyến khích"
+    }
+  ],
+  "conversation": [
+    "Nam: Trẻ em bị ảnh hưởng bởi {0} rất nhiều.",
+    "Lan: Quá nhiều thời gian xem TV có {1} {3}.",
+    "Nam: Thể dục có nhiều {2} {3} lên cơ thể.",
+    "Lan: Cha mẹ nên {6} con đọc sách nhiều hơn.",
+    "Nam: Học sinh cần {5} cho kỳ thi cuối kỳ."
+  ]
+}

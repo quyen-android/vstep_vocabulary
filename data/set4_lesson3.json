@@ -1,0 +1,52 @@
+{
+  "title": "Tác động của công nghệ và tương tác con người",
+  "tuvung": [
+    {
+      "tuvung": "benefit",
+      "dongnghia": ["help", "be advantageous to"],
+      "loaitu": "v",
+      "nghiatiengviet": "mang lại lợi ích"
+    },
+    {
+      "tuvung": "at the touch of a button",
+      "dongnghia": ["instantly", "with ease"],
+      "loaitu": "idiom",
+      "nghiatiengviet": "chỉ với một nút bấm"
+    },
+    {
+      "tuvung": "argue",
+      "dongnghia": ["claim", "assert"],
+      "loaitu": "v",
+      "nghiatiengviet": "tranh luận"
+    },
+    {
+      "tuvung": "deprive",
+      "dongnghia": ["take away", "strip of"],
+      "loaitu": "v",
+      "nghiatiengviet": "tước đoạt"
+    },
+    {
+      "tuvung": "real human interaction",
+      "dongnghia": ["face-to-face communication", "personal engagement"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "sự tương tác trực tiếp giữa con người"
+    },
+    {
+      "tuvung": "effects",
+      "dongnghia": ["impact", "influence"],
+      "loaitu": "n",
+      "nghiatiengviet": "tác động"
+    },
+    {
+      "tuvung": "classroom",
+      "dongnghia": ["learning environment", "academic setting"],
+      "loaitu": "n",
+      "nghiatiengviet": "lớp học"
+    }
+  ],
+  "conversation": [
+    "Nam: Technology can {0} learning {6} {1}.",
+    "Lan: But some {2} that it might {3} students of {4}.",
+    "Nam: The {5} of technology on {6} are still being studied."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Quy định và trách nhiệm tại trường đại học",
+  "tuvung": [
+    {
+      "tuvung": "compulsory attendance",
+      "dongnghia": ["mandatory presence", "required participation"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "sự điểm danh bắt buộc"
+    },
+    {
+      "tuvung": "university",
+      "dongnghia": ["college", "higher education institution"],
+      "loaitu": "n",
+      "nghiatiengviet": "đại học"
+    },
+    {
+      "tuvung": "highly debated subject",
+      "dongnghia": ["controversial issue", "widely discussed topic"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "chủ đề gây tranh cãi nhiều"
+    },
+    {
+      "tuvung": "professor",
+      "dongnghia": ["lecturer", "academic instructor"],
+      "loaitu": "n",
+      "nghiatiengviet": "giáo sư, giảng viên đại học"
+    },
+    {
+      "tuvung": "individual student responsibility",
+      "dongnghia": ["personal obligation of students"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "trách nhiệm cá nhân của sinh viên"
+    },
+    {
+      "tuvung": "freedom",
+      "dongnghia": ["liberty", "autonomy"],
+      "loaitu": "n",
+      "nghiatiengviet": "sự tự do"
+    }
+  ],
+  "conversation": [
+    "Lan: Một số trường đại học có {0} trong tất cả các lớp học.",
+    "Nam: Cô ấy muốn học tại một {1} tốt.",
+    "Lan: Biến đổi khí hậu là một {2} ngày nay.",
+    "Nam: {3} đã giao cho chúng tôi bài tập mới.",
+    "Lan: Làm bài tập về nhà là một {4}.",
+    "Nam: Sinh viên muốn nhiều {5} hơn trong việc chọn lớp học."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Ứng dụng công nghệ trong giáo dục - Phần 1",
+  "tuvung": [
+    {
+      "tuvung": "thanks to",
+      "dongnghia": ["due to", "because of"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "nhờ vào",
+      "vidu": "Online learning has become popular ______ ______ technology."
+    },
+    {
+      "tuvung": "the ever-increasing use of technology",
+      "dongnghia": ["the growing reliance on technology"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "việc sử dụng công nghệ ngày càng gia tăng",
+      "vidu": "Students benefit from ______ ______ ______ ______ ______ ______."
+    },
+    {
+      "tuvung": "computers are being used more and more in education",
+      "dongnghia": [],
+      "loaitu": "phr.",
+      "nghiatiengviet": "máy tính ngày càng được sử dụng nhiều hơn trong giáo dục",
+      "vidu": "______ ______ ______ ______ ______ ______ ______ ______ in classrooms."
+    },
+    {
+      "tuvung": "a positive trend",
+      "dongnghia": ["a good development", "a beneficial direction"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "một xu hướng tích cực",
+      "vidu": "Many believe that using tablets is ______ ______ ______ in schools."
+    },
+    {
+      "tuvung": "at the touch of a button",
+      "dongnghia": ["instantly", "with ease"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "chỉ với một cú nhấp chuột",
+      "vidu": "You can access all information ______ ______ ______ ______."
+    }
+  ],
+  "conversation": [
+    "Lan: Nhờ vào công nghệ, học trực tuyến đã trở nên rất phổ biến.",
+    "Minh: Việc sử dụng công nghệ trong giáo dục ngày càng gia tăng, đặc biệt là máy tính.",
+    "Lan: Nhiều người cho rằng đây là một xu hướng tích cực.",
+    "Minh: Thông tin giờ có thể truy cập chỉ với một cú nhấp chuột."
+  ]
+}

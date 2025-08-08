@@ -1,0 +1,61 @@
+{
+  "title": "Quản lý giáo dục",
+  "tuvung": [
+    {
+      "tuvung": "decide",
+      "dongnghia": ["determine", "make a decision"],
+      "loaitu": "v",
+      "nghiatiengviet": "quyết định"
+    },
+    {
+      "tuvung": "subject",
+      "dongnghia": ["course", "topic"],
+      "loaitu": "n",
+      "nghiatiengviet": "môn học"
+    },
+    {
+      "tuvung": "central authorities",
+      "dongnghia": ["government officials"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "chính quyền trung ương"
+    },
+    {
+      "tuvung": "guarantee",
+      "dongnghia": ["ensure", "secure"],
+      "loaitu": "v",
+      "nghiatiengviet": "đảm bảo"
+    },
+    {
+      "tuvung": "standardization",
+      "dongnghia": ["uniformity", "consistency"],
+      "loaitu": "n",
+      "nghiatiengviet": "sự tiêu chuẩn hóa"
+    },
+    {
+      "tuvung": "teaching",
+      "dongnghia": ["education", "instruction"],
+      "loaitu": "n",
+      "nghiatiengviet": "việc giảng dạy"
+    },
+    {
+      "tuvung": "politicians",
+      "dongnghia": ["government leaders", "lawmakers"],
+      "loaitu": "n",
+      "nghiatiengviet": "các chính trị gia"
+    },
+    {
+      "tuvung": "responsible for",
+      "dongnghia": ["in charge of", "accountable for"],
+      "loaitu": "adj",
+      "nghiatiengviet": "chịu trách nhiệm về"
+    }
+  ],
+  "conversation": [
+    "Lan: Ai sẽ {0} các {1} trong trường?",
+    "Nam: Thường là {2} sẽ làm.",
+    "Lan: Họ phải {3} việc {5} đúng quy định.",
+    "Nam: Đúng, và {4} giúp chất lượng {5} tốt hơn.",
+    "Lan: Vậy {6} có {7} giáo dục không?",
+    "Nam: Có, họ là người {7} nhiều quyết định."
+  ]
+}

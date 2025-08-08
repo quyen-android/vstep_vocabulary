@@ -1,0 +1,61 @@
+{
+  "title": "Sở thích và quan điểm cá nhân",
+  "tuvung": [
+    {
+      "tuvung": "hobby",
+      "dongnghia": ["pastime", "leisure activity"],
+      "loaitu": "n",
+      "nghiatiengviet": "sở thích"
+    },
+    {
+      "tuvung": "believe",
+      "dongnghia": ["think", "assume", "hold the view that"],
+      "loaitu": "v",
+      "nghiatiengviet": "tin rằng"
+    },
+    {
+      "tuvung": "need to be",
+      "dongnghia": ["must be", "have to be"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "cần phải"
+    },
+    {
+      "tuvung": "difficult",
+      "dongnghia": ["challenging", "demanding", "tough"],
+      "loaitu": "adj",
+      "nghiatiengviet": "khó khăn"
+    },
+    {
+      "tuvung": "enjoyable",
+      "dongnghia": ["pleasant", "fun", "entertaining"],
+      "loaitu": "adj",
+      "nghiatiengviet": "thú vị, đem lại niềm vui"
+    },
+    {
+      "tuvung": "to what extent",
+      "dongnghia": ["how much", "how far"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "ở mức độ nào"
+    },
+    {
+      "tuvung": "agree",
+      "dongnghia": ["support", "be in favor of"],
+      "loaitu": "v",
+      "nghiatiengviet": "đồng ý"
+    },
+    {
+      "tuvung": "disagree",
+      "dongnghia": ["oppose", "be against"],
+      "loaitu": "v",
+      "nghiatiengviet": "không đồng ý"
+    }
+  ],
+  "conversation": [
+    "Lan: Tôi thích có một {0} giúp tôi thư giãn.",
+    "Nam: Nhiều người {1} rằng sở thích giúp giảm stress.",
+    "Lan: Nhưng sở thích {2} {3} và thú vị thì tốt hơn.",
+    "Nam: Bạn nghĩ ở {5} nào sở thích nên khó khăn?",
+    "Lan: Tôi hoàn toàn {6} với ý kiến đó.",
+    "Nam: Một số người lại {7} rằng sở thích không cần quá khó."
+  ]
+}

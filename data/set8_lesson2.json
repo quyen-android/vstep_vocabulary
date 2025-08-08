@@ -1,0 +1,49 @@
+{
+  "title": "Phản đối và ủng hộ luật cấm hút thuốc",
+  "tuvung": [
+    {
+      "tuvung": "public places",
+      "dongnghia": ["parks", "restaurants", "stations"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "nơi công cộng"
+    },
+    {
+      "tuvung": "opponent",
+      "dongnghia": ["critic", "protester"],
+      "loaitu": "n",
+      "nghiatiengviet": "người phản đối"
+    },
+    {
+      "tuvung": "possibly",
+      "dongnghia": ["maybe", "likely"],
+      "loaitu": "adv",
+      "nghiatiengviet": "có khả năng"
+    },
+    {
+      "tuvung": "affect",
+      "dongnghia": ["negatively impact"],
+      "loaitu": "v",
+      "nghiatiengviet": "ảnh hưởng"
+    },
+    {
+      "tuvung": "effect",
+      "dongnghia": ["impact", "result"],
+      "loaitu": "n",
+      "nghiatiengviet": "sự ảnh hưởng"
+    },
+    {
+      "tuvung": "freedom of choice",
+      "dongnghia": ["right to choose"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "tự do lựa chọn"
+    }
+  ],
+  "conversation": [
+    "Lan: Hút thuốc không được phép ở {0}.",
+    "Nam: Luật được thông qua dù có nhiều {1}.",
+    "Lan: Anh ấy {2} sẽ tham gia bữa tối cùng chúng ta.",
+    "Nam: Nhạc to có thể {3} giấc ngủ của bạn.",
+    "Lan: Luật mới có {4} lớn đối với học sinh.",
+    "Nam: Ai cũng nên có {5} trong giáo dục."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Gia đình và xã hội hiện đại",
+  "tuvung": [
+    {
+      "tuvung": "nowadays",
+      "dongnghia": ["these days", "in modern times", "currently"],
+      "loaitu": "adv.",
+      "nghiatiengviet": "ngày nay"
+    },
+    {
+      "tuvung": "men and women",
+      "dongnghia": ["males and females", "individuals", "adults"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "nam giới và phụ nữ"
+    },
+    {
+      "tuvung": "career development",
+      "dongnghia": ["professional growth", "occupational advancement"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "phát triển sự nghiệp"
+    },
+    {
+      "tuvung": "afraid of",
+      "dongnghia": ["concerned about", "worried about"],
+      "loaitu": "adj.p",
+      "nghiatiengviet": "lo sợ"
+    },
+    {
+      "tuvung": "cost",
+      "dongnghia": ["expense", "financial burden", "monetary cost"],
+      "loaitu": "n",
+      "nghiatiengviet": "chi phí"
+    },
+    {
+      "tuvung": "delaying childbirth",
+      "dongnghia": ["postponing pregnancy", "having children later"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "trì hoãn sinh con"
+    }
+  ],
+  "conversation": [
+    "Lan: {0}, nhiều người chọn làm việc ở nhà.",
+    "Nam: {1} có quyền bầu cử trong hầu hết các nước.",
+    "Lan: Người ta {5} nhiều hơn so với trước kia.",
+    "Nam: Chi phí {4} nuôi con ngày càng cao.",
+    "Lan: Anh ấy {3} mất việc.",
+    "Nam: {2} rất quan trọng trong cuộc sống."
+  ]
+}

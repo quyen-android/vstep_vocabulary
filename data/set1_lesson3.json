@@ -1,0 +1,59 @@
+{
+  "title": "Chương trình học và học sinh",
+  "tuvung": [
+    {
+      "tuvung": "task",
+      "dongnghia": ["duty", "responsibility"],
+      "loaitu": "n",
+      "nghiatiengviet": "nhiệm vụ"
+    },
+    {
+      "tuvung": "choose",
+      "dongnghia": ["select", "pick"],
+      "loaitu": "v",
+      "nghiatiengviet": "chọn"
+    },
+    {
+      "tuvung": "based on",
+      "dongnghia": ["according to", "depending on"],
+      "loaitu": "prep.",
+      "nghiatiengviet": "dựa trên"
+    },
+    {
+      "tuvung": "students’ interests",
+      "dongnghia": ["learners’ preferences"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "sở thích của học sinh"
+    },
+    {
+      "tuvung": "abilities",
+      "dongnghia": ["skills", "competencies"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "khả năng"
+    },
+    {
+      "tuvung": "promote",
+      "dongnghia": ["enhance", "encourage", "foster"],
+      "loaitu": "v",
+      "nghiatiengviet": "thúc đẩy"
+    },
+    {
+      "tuvung": "learning",
+      "dongnghia": ["education", "knowledge acquisition"],
+      "loaitu": "n",
+      "nghiatiengviet": "việc học tập"
+    },
+    {
+      "tuvung": "discuss both views",
+      "dongnghia": ["analyze both perspectives"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "thảo luận cả hai quan điểm"
+    }
+  ],
+  "conversation": [
+    "Nam: Nhiệm vụ ({0}) của giáo viên là gì?",
+    "Lan: Họ {1} nội dung học {2} {3} và {4}.",
+    "Nam: Điều đó giúp {5} {6} hiệu quả hơn.",
+    "Lan: Đúng, nhưng cũng cần {7} trước khi quyết định."
+  ]
+}

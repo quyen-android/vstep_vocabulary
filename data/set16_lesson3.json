@@ -1,0 +1,39 @@
+{
+  "title": "Ô nhiễm và tác động đến sinh vật - Phần 3",
+  "tuvung": [
+    {
+      "tuvung": "air pollution",
+      "dongnghia": ["atmospheric pollution", "degraded air quality"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "ô nhiễm không khí",
+      "vidu": "______ ______ is a serious issue in many cities."
+    },
+    {
+      "tuvung": "on humans",
+      "dongnghia": ["on people", "on individuals"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "đối với con người",
+      "vidu": "Bad air has serious effects ______ ______."
+    },
+    {
+      "tuvung": "on plants",
+      "dongnghia": ["on vegetation", "on crops", "on flora"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "đối với thực vật",
+      "vidu": "Pollution can harm crops and other ______ ______."
+    },
+    {
+      "tuvung": "on animals",
+      "dongnghia": ["on wildlife", "on fauna", "on living creatures"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "đối với động vật",
+      "vidu": "Noise pollution has negative effects ______ ______ too."
+    }
+  ],
+  "conversation": [
+    "Lan: Ô nhiễm không khí là vấn đề nghiêm trọng ở nhiều thành phố.",
+    "Minh: Ô nhiễm gây ảnh hưởng xấu đến con người.",
+    "Lan: Nó cũng tác động đến thực vật và động vật.",
+    "Minh: Vì vậy, chúng ta cần bảo vệ môi trường."
+  ]
+}

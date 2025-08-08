@@ -1,0 +1,83 @@
+{
+  "title": "Du học và những trải nghiệm quý giá",
+  "tuvung": [
+    {
+      "tuvung": "studying abroad",
+      "dongnghia": ["overseas education", "international study"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "du học"
+    },
+    {
+      "tuvung": "one of the most beneficial experiences",
+      "dongnghia": ["a valuable opportunity", "an enriching journey"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "một trong những trải nghiệm có lợi nhất"
+    },
+    {
+      "tuvung": "obtain",
+      "dongnghia": ["earn", "acquire", "gain"],
+      "loaitu": "v",
+      "nghiatiengviet": "đạt được"
+    },
+    {
+      "tuvung": "an international degree",
+      "dongnghia": ["a globally recognized qualification"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "bằng cấp quốc tế"
+    },
+    {
+      "tuvung": "future personal development",
+      "dongnghia": ["long-term self-improvement"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "sự phát triển cá nhân trong tương lai"
+    },
+    {
+      "tuvung": "better job opportunities",
+      "dongnghia": ["improved employment prospects"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "cơ hội việc làm tốt hơn"
+    },
+    {
+      "tuvung": "however",
+      "dongnghia": ["nevertheless", "on the other hand", "despite this"],
+      "loaitu": "conj.",
+      "nghiatiengviet": "tuy nhiên"
+    },
+    {
+      "tuvung": "difficulties",
+      "dongnghia": ["challenges", "obstacles", "struggles"],
+      "loaitu": "n",
+      "nghiatiengviet": "khó khăn"
+    },
+    {
+      "tuvung": "language barrier",
+      "dongnghia": ["communication difficulty", "linguistic obstacle"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "rào cản ngôn ngữ"
+    },
+    {
+      "tuvung": "homesickness",
+      "dongnghia": ["longing for home", "nostalgia", "emotional distress"],
+      "loaitu": "n",
+      "nghiatiengviet": "nỗi nhớ nhà"
+    },
+    {
+      "tuvung": "opportunity",
+      "dongnghia": ["chance", "possibility"],
+      "loaitu": "n",
+      "nghiatiengviet": "cơ hội"
+    },
+    {
+      "tuvung": "nation",
+      "dongnghia": ["country", "state"],
+      "loaitu": "n",
+      "nghiatiengviet": "quốc gia"
+    }
+  ],
+  "conversation": [
+    "Lan: Du học là {1} cho nhiều bạn trẻ.",
+    "Nam: Bạn có thể {2} {3} và có {5} sau khi tốt nghiệp.",
+    "Lan: {6}, có một số {7} như {8} hay {9}.",
+    "Nam: Nhưng đây cũng là một {10} tốt để học hỏi và trưởng thành ở một {11} khác."
+  ]
+}

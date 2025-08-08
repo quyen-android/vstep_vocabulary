@@ -1,0 +1,49 @@
+{
+  "title": "Sự phát triển ngành du lịch và tiến bộ hàng không",
+  "tuvung": [
+    {
+      "tuvung": "has become cheaper",
+      "dongnghia": ["has become more affordable", "has decreased in price"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "đã trở nên rẻ hơn"
+    },
+    {
+      "tuvung": "boost",
+      "dongnghia": ["promote", "enhance", "stimulate"],
+      "loaitu": "v",
+      "nghiatiengviet": "thúc đẩy"
+    },
+    {
+      "tuvung": "tourism industry",
+      "dongnghia": ["travel sector", "hospitality business"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "ngành du lịch"
+    },
+    {
+      "tuvung": "rise in middle-class income",
+      "dongnghia": ["increasing earnings of middle-income groups"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "sự gia tăng thu nhập của tầng lớp trung lưu"
+    },
+    {
+      "tuvung": "coupled with",
+      "dongnghia": ["along with", "combined with"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "đi kèm với"
+    },
+    {
+      "tuvung": "advances in aviation",
+      "dongnghia": ["improvements in air travel", "technological progress in aviation"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "tiến bộ trong ngành hàng không"
+    }
+  ],
+  "conversation": [
+    "Lan: Vé máy bay {0} nhờ các hãng bay mới.",
+    "Nam: Giá thấp có thể {1} ngành du lịch.",
+    "Lan: {2} mang lại nhiều tiền cho đất nước.",
+    "Nam: {3} giúp nhiều gia đình đi du lịch hơn.",
+    "Lan: Vé rẻ, {4} dịch vụ tốt thu hút khách du lịch.",
+    "Nam: {5} đã làm cho việc bay an toàn và nhanh hơn."
+  ]
+}

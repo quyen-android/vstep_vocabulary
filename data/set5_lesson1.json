@@ -1,0 +1,63 @@
+{
+  "title": "Giáo dục đại học và lợi ích xã hội",
+  "tuvung": [
+    {
+      "tuvung": "aim",
+      "dongnghia": ["purpose", "objective", "goal"],
+      "loaitu": "n",
+      "nghiatiengviet": "mục tiêu"
+    },
+    {
+      "tuvung": "university education",
+      "dongnghia": ["higher education", "tertiary education"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "giáo dục đại học"
+    },
+    {
+      "tuvung": "help",
+      "dongnghia": ["assist", "support"],
+      "loaitu": "v",
+      "nghiatiengviet": "giúp đỡ"
+    },
+    {
+      "tuvung": "graduates",
+      "dongnghia": ["degree holders", "alumni"],
+      "loaitu": "n",
+      "nghiatiengviet": "sinh viên tốt nghiệp"
+    },
+    {
+      "tuvung": "get better jobs",
+      "dongnghia": ["secure high-paying jobs", "obtain desirable employment"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "có công việc tốt hơn"
+    },
+    {
+      "tuvung": "much wider benefits",
+      "dongnghia": ["broader advantages", "greater benefits"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "lợi ích rộng lớn hơn"
+    },
+    {
+      "tuvung": "individuals",
+      "dongnghia": ["people", "citizens"],
+      "loaitu": "n",
+      "nghiatiengviet": "cá nhân"
+    },
+    {
+      "tuvung": "society",
+      "dongnghia": ["community", "the public"],
+      "loaitu": "n",
+      "nghiatiengviet": "xã hội"
+    }
+  ],
+  "conversation": [
+    "Lan: Mục {0} chính của mình là đậu kỳ thi.",
+    "Nam: Nhiều học sinh muốn được giáo dục đại học ({1}).",
+    "Lan: Giáo viên {2} học sinh hiểu bài.",
+    "Nam: Nhiều {3} nhanh chóng tìm được việc làm sau đại học.",
+    "Lan: Giáo dục giúp mọi người {4}.",
+    "Nam: Nước sạch mang lại {5} cho cộng đồng.",
+    "Lan: Tất cả {6} đều có quyền được học.",
+    "Nam: Sức khỏe tốt rất quan trọng đối với toàn bộ {7}."
+  ]
+}

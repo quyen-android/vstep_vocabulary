@@ -1,0 +1,48 @@
+{
+  "title": "Nạn phá rừng và nguyên nhân",
+  "tuvung": [
+    {
+      "tuvung": "deforestation",
+      "dongnghia": ["forest clearance", "tree cutting", "logging"],
+      "loaitu": "n",
+      "nghiatiengviet": "nạn phá rừng"
+    },
+    {
+      "tuvung": "made by",
+      "dongnghia": ["caused by", "resulted from", "brought about by"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "gây ra bởi"
+    },
+    {
+      "tuvung": "cutting trees",
+      "dongnghia": ["tree felling", "logging", "clearing forests"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "chặt cây"
+    },
+    {
+      "tuvung": "for housing",
+      "dongnghia": ["for residential purposes", "for construction", "for urban expansion"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "để làm nhà ở"
+    },
+    {
+      "tuvung": "for agriculture",
+      "dongnghia": ["for farming", "for cultivation", "for agricultural use"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "để làm nông nghiệp"
+    },
+    {
+      "tuvung": "for wood",
+      "dongnghia": ["for timber", "for lumber", "for furniture production"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "để lấy gỗ"
+    }
+  ],
+  "conversation": [
+    "Lan: {0} là một vấn đề lớn ở các nước nhiệt đới.",
+    "Nam: Đúng, nhiều nguyên nhân {1} hoạt động của con người.",
+    "Lan: Một trong số đó là {2}.",
+    "Nam: Rừng bị phá {3} và {4}.",
+    "Lan: Còn có việc khai thác gỗ {5} nữa."
+  ]
+}

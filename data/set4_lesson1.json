@@ -1,0 +1,49 @@
+{
+  "title": "Vai trò của giáo dục và sự tập trung",
+  "tuvung": [
+    {
+      "tuvung": "news",
+      "dongnghia": [],
+      "loaitu": "n",
+      "nghiatiengviet": "tin tức"
+    },
+    {
+      "tuvung": "plays an important part of something",
+      "dongnghia": ["has a key role in", "is essential to"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "đóng một vai trò quan trọng"
+    },
+    {
+      "tuvung": "dedicate",
+      "dongnghia": ["devote"],
+      "loaitu": "v",
+      "nghiatiengviet": "cống hiến"
+    },
+    {
+      "tuvung": "be dedicated to",
+      "dongnghia": ["be committed to", "be focused on"],
+      "loaitu": "phr.v",
+      "nghiatiengviet": "dành cho, tận tâm với"
+    },
+    {
+      "tuvung": "focus on",
+      "dongnghia": ["concentrate on", "pay attention to"],
+      "loaitu": "v",
+      "nghiatiengviet": "tập trung vào"
+    },
+    {
+      "tuvung": "instead",
+      "dongnghia": ["alternatively", "in place of"],
+      "loaitu": "adv",
+      "nghiatiengviet": "thay vào đó"
+    }
+  ],
+  "conversation": [
+    "Lan: I watch the {0} every morning.",
+    "Nam: Education {1} our lives.",
+    "Lan: She {2} her life to helping the poor.",
+    "Nam: He is {3} teaching children with disabilities.",
+    "Lan: Students should {4} their studies.",
+    "Nam: I didn’t eat pizza. I had pasta {5}."
+  ]
+}

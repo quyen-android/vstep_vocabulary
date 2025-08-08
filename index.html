@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <title>Dashboard - Học từ vựng</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>🌟 Học Từ Vựng</h1>
+    <p class="subtitle">Chọn set để bắt đầu — mỗi set chứa nhiều bài</p>
+  </header>
+
+  <main class="main-container">
+    <div id="dashboard" class="dashboard-grid"></div>
+  </main>
+
+  <footer class="footer">
+    <small>Made with ❤️ — Minimal vocabulary trainer</small>
+  </footer>
+
+  <script>
+    fetch('data/sets.json')
+      .then(r => r.json())
+      .then(sets => {
+        const dash = document.getElementById('dashboard');
+        sets.forEach(set => {
+          const setCard = document.createElement('div');
+          setCard.className = 'set-card';
+          setCard.innerHTML = `
+            <div class="set-head">
+              <h2>📚 Set ${set.setId}: ${set.setName}</h2>
+            </div>
+            <div class="lessons">
+              ${set.lessons.map(l => `
+                <a class="lesson-link" href="lesson.html?set=${set.setId}&lesson=${l.lessonId}">
+                  Bài ${l.lessonId}: ${l.title}
+                </a>
+              `).join('')}
+            </div>
+          `;
+          dash.appendChild(setCard);
+        });
+      })
+      .catch(err => {
+        document.getElementById('dashboard').innerHTML = '<p class="error">Không thể tải danh sách. Hãy kiểm tra file <code>data/sets.json</code>.</p>';
+        console.error(err);
+      });
+  </script>
+</body>
+</html>

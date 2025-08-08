@@ -1,0 +1,28 @@
+{
+  "title": "Giấc mơ học đại học và con đường thành công",
+  "tuvung": [
+    {
+      "tuvung": "studying at university or college",
+      "dongnghia": ["pursuing higher education", "enrolling in tertiary education"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "học đại học hoặc cao đẳng"
+    },
+    {
+      "tuvung": "best route",
+      "dongnghia": ["optimal path", "most effective way"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "con đường tốt nhất"
+    },
+    {
+      "tuvung": "successful career",
+      "dongnghia": ["prosperous profession", "rewarding occupation"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "sự nghiệp thành công"
+    }
+  ],
+  "conversation": [
+    "Lan: Nhiều sinh viên mơ ước {0}.",
+    "Nam: Đại học thường được xem là {1} đến thành công.",
+    "Lan: Cô ấy muốn có một {2} trong ngành y."
+  ]
+}

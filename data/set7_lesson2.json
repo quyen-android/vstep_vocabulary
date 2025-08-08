@@ -1,0 +1,63 @@
+{
+  "title": "Quy tắc và lựa chọn trong học tập",
+  "tuvung": [
+    {
+      "tuvung": "decide",
+      "dongnghia": ["choose", "determine"],
+      "loaitu": "v",
+      "nghiatiengviet": "quyết định"
+    },
+    {
+      "tuvung": "difficulty",
+      "dongnghia": ["challenge", "complication"],
+      "loaitu": "n",
+      "nghiatiengviet": "sự khó khăn"
+    },
+    {
+      "tuvung": "regulating",
+      "dongnghia": ["controlling", "enforcing"],
+      "loaitu": "v",
+      "nghiatiengviet": "điều chỉnh, kiểm soát"
+    },
+    {
+      "tuvung": "school-wide policy",
+      "dongnghia": ["institution-wide regulation", "university rule"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "chính sách toàn trường"
+    },
+    {
+      "tuvung": "authority",
+      "dongnghia": ["power", "control"],
+      "loaitu": "n",
+      "nghiatiengviet": "quyền hạn"
+    },
+    {
+      "tuvung": "set their own rules",
+      "dongnghia": ["establish their own policies"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "đặt ra quy tắc riêng"
+    },
+    {
+      "tuvung": "required",
+      "dongnghia": ["mandatory", "obligatory"],
+      "loaitu": "adj",
+      "nghiatiengviet": "bắt buộc"
+    },
+    {
+      "tuvung": "optional",
+      "dongnghia": ["selective", "voluntary"],
+      "loaitu": "adj",
+      "nghiatiengviet": "tùy chọn"
+    }
+  ],
+  "conversation": [
+    "Lan: Tôi không thể {0} hôm nay mặc gì.",
+    "Nam: Anh ấy gặp {1} khi hiểu bài học.",
+    "Lan: Trường đang {2} hành vi của sinh viên.",
+    "Nam: Mặc đồng phục là một {3}.",
+    "Lan: Giáo viên có {4} giao bài tập thêm.",
+    "Nam: Mỗi lớp có thể {5}.",
+    "Lan: Điểm danh là {6} trong khóa học này.",
+    "Nam: Dự án cuối kỳ là {7} cho lớp học."
+  ]
+}

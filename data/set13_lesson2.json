@@ -1,0 +1,48 @@
+{
+  "title": "Xu hướng mua sắm và lợi ích",
+  "tuvung": [
+    {
+      "tuvung": "are able to",
+      "dongnghia": ["can", "have the ability to", "have the option to"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "có thể"
+    },
+    {
+      "tuvung": "order",
+      "dongnghia": ["purchase", "buy", "place an order for"],
+      "loaitu": "v",
+      "nghiatiengviet": "đặt hàng"
+    },
+    {
+      "tuvung": "easily",
+      "dongnghia": ["conveniently", "effortlessly", "without difficulty"],
+      "loaitu": "adv",
+      "nghiatiengviet": "dễ dàng"
+    },
+    {
+      "tuvung": "trend",
+      "dongnghia": ["tendency", "movement", "phenomenon"],
+      "loaitu": "n",
+      "nghiatiengviet": "xu hướng"
+    },
+    {
+      "tuvung": "outweigh",
+      "dongnghia": ["surpass", "be greater than", "be more significant than"],
+      "loaitu": "v",
+      "nghiatiengviet": "vượt trội hơn"
+    },
+    {
+      "tuvung": "drawbacks",
+      "dongnghia": ["disadvantages", "negative aspects", "downsides"],
+      "loaitu": "n",
+      "nghiatiengviet": "hạn chế"
+    }
+  ],
+  "conversation": [
+    "Nam: Bạn {0} đặt hàng online rất tiện lợi.",
+    "Lan: Có thể {1} sản phẩm chỉ trong vài phút.",
+    "Nam: Xu hướng mua sắm online đang là một {3} lớn.",
+    "Lan: Lợi ích của nó {4} những {5}.",
+    "Nam: Đúng vậy, nhưng cũng cần cân nhắc kỹ."
+  ]
+}

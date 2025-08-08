@@ -1,0 +1,47 @@
+{
+  "title": "Vấn đề giao thông và các nỗ lực",
+  "tuvung": [
+    {
+      "tuvung": "traffic accidents",
+      "dongnghia": ["transportation incidents"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "tai nạn giao thông"
+    },
+    {
+      "tuvung": "becoming",
+      "dongnghia": ["turning into"],
+      "loaitu": "v",
+      "nghiatiengviet": "đang trở thành"
+    },
+    {
+      "tuvung": "a huge problem",
+      "dongnghia": ["a serious issue"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "một vấn đề lớn"
+    },
+    {
+      "tuvung": "many major cities",
+      "dongnghia": ["large urban centers"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "nhiều thành phố lớn"
+    },
+    {
+      "tuvung": "efforts",
+      "dongnghia": ["attempts", "initiatives", "endeavors"],
+      "loaitu": "n",
+      "nghiatiengviet": "nỗ lực"
+    },
+    {
+      "tuvung": "have been made",
+      "dongnghia": ["have been implemented", "have been carried out"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "đã được thực hiện"
+    }
+  ],
+  "conversation": [
+    "Lan: {3} đang đối mặt với nhiều vấn đề giao thông.",
+    "Nam: {5} nhiều nỗ lực để giảm tai nạn.",
+    "Lan: Tai nạn giao thông {1} một vấn đề lớn.",
+    "Nam: {4} rất quan trọng để cải thiện tình hình."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Vấn đề béo phì ở trẻ em - Phần 1",
+  "tuvung": [
+    {
+      "tuvung": "in recent years",
+      "dongnghia": ["over the past few years", "lately", "in the last decade"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "trong những năm gần đây"
+    },
+    {
+      "tuvung": "obesity",
+      "dongnghia": ["excess body weight"],
+      "loaitu": "n",
+      "nghiatiengviet": "béo phì"
+    },
+    {
+      "tuvung": "the young",
+      "dongnghia": ["young people", "adolescents", "teenagers"],
+      "loaitu": "n",
+      "nghiatiengviet": "giới trẻ"
+    },
+    {
+      "tuvung": "being overweight",
+      "dongnghia": ["carrying extra pounds", "obesity"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "tình trạng thừa cân"
+    },
+    {
+      "tuvung": "a worrying problem",
+      "dongnghia": ["a concerning issue", "an alarming situation"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "một vấn đề đáng lo ngại"
+    },
+    {
+      "tuvung": "negatively",
+      "dongnghia": ["adversely", "detrimentally", "harmfully"],
+      "loaitu": "adv",
+      "nghiatiengviet": "tiêu cực"
+    },
+    {
+      "tuvung": "point out",
+      "dongnghia": ["identify", "highlight", "shed light on"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "chỉ ra"
+    },
+    {
+      "tuvung": "recommend",
+      "dongnghia": ["suggest", "propose", "put forward"],
+      "loaitu": "v",
+      "nghiatiengviet": "đề xuất"
+    }
+  ],
+  "conversation": [
+    "Minh: {0}, số trẻ em bị béo phì ngày càng tăng.",
+    "Lan: Đúng vậy, béo phì là {4} cho sức khỏe.",
+    "Minh: Các chuyên gia cũng {6} mối liên hệ giữa đường và béo phì.",
+    "Lan: Và họ {7} nên ăn nhiều rau quả hơn."
+  ]
+}

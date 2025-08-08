@@ -1,0 +1,48 @@
+{
+  "title": "Xu hướng học trực tuyến và mua sắm online",
+  "tuvung": [
+    {
+      "tuvung": "it is now possible",
+      "dongnghia": ["it is now feasible", "it is now accessible", "it is now available"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "hiện nay có thể"
+    },
+    {
+      "tuvung": "for people to buy",
+      "dongnghia": ["for consumers to purchase", "for individuals to acquire"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "để mọi người mua"
+    },
+    {
+      "tuvung": "products",
+      "dongnghia": ["goods", "items", "commodities"],
+      "loaitu": "n",
+      "nghiatiengviet": "sản phẩm"
+    },
+    {
+      "tuvung": "made in other countries",
+      "dongnghia": ["manufactured abroad", "imported"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "sản xuất ở các nước khác"
+    },
+    {
+      "tuvung": "for example",
+      "dongnghia": ["such as", "like", "to illustrate"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "ví dụ"
+    },
+    {
+      "tuvung": "people in Vietnam",
+      "dongnghia": ["Vietnamese consumers", "local buyers"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "người dân ở Việt Nam"
+    }
+  ],
+  "conversation": [
+    "Lan: {0} học trực tuyến từ bất cứ đâu.",
+    "Nam: Giờ đây, {1} những sản phẩm dễ dàng hơn trên Internet.",
+    "Lan: {2} {3}, rất nhiều quần áo được nhập khẩu.",
+    "Nam: {4}, nhiều người Việt Nam thích mua sắm online.",
+    "Lan: Thật tiện lợi!"
+  ]
+}

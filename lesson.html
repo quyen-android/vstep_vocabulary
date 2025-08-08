@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <title>Bài học - Học từ vựng</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="btn small" href="index.html">⬅ Dashboard</a>
+    <h1 id="page-title">Đang tải...</h1>
+  </header>
+
+  <main class="main-container">
+    <!-- Tabs -->
+    <div class="tabs">
+      <button id="tab-lesson" class="tab active">🗨️ Hội thoại</button>
+      <button id="tab-review" class="tab">📝 Ôn từ</button>
+      <button id="tab-test" class="tab">✍️ Kiểm tra hội thoại</button>
+    </div>
+
+    <!-- Lesson -->
+    <section id="view-lesson" class="card view active">
+      <h2>💬 Hội thoại</h2>
+      <div id="conversation" class="conversation"></div>
+      <div class="controls">
+        <button id="go-review" class="btn">Ôn từ</button>
+        <button id="go-test" class="btn alt">Kiểm tra hội thoại</button>
+      </div>
+    </section>
+
+    <!-- Review -->
+    <section id="view-review" class="card view" style="display:none;">
+      <h2>📖 Ôn từ — Nhập từ tương ứng</h2>
+      <p class="muted">Nhập <strong>từ chính</strong> hoặc <strong>từ đồng nghĩa</strong> để tính là đúng.</p>
+      <div id="review-grid" class="review-grid"></div>
+      <div class="controls">
+        <button id="check-review" class="btn">✅ Kiểm tra</button>
+        <button id="back-to-lesson" class="btn alt">⬅ Quay lại hội thoại</button>
+      </div>
+    </section>
+
+    <!-- Test -->
+    <section id="view-test" class="card view" style="display:none;">
+      <h2>📝 Kiểm tra hội thoại</h2>
+      <p class="muted">Điền từ chính hoặc đồng nghĩa vào chỗ trống.</p>
+      <div id="test-conversation" class="conversation"></div>
+      <div class="controls">
+        <button id="check-test" class="btn">✅ Nộp bài</button>
+        <button id="back-to-lesson-2" class="btn alt">⬅ Quay lại hội thoại</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Modal -->
+  <div id="congrats-modal" class="modal hidden">
+    <div class="modal-card">
+      <div id="confetti"></div>
+      <h2>🎉 Xuất sắc!</h2>
+      <p id="congrats-text">Bạn đã hoàn thành bài tập.</p>
+      <div class="controls" style="justify-content:center;">
+        <button id="close-congrats" class="btn">Tiếp tục</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

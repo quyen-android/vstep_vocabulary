@@ -1,0 +1,47 @@
+{
+  "title": "Quyết định và trách nhiệm gia đình",
+  "tuvung": [
+    {
+      "tuvung": "spend",
+      "dongnghia": ["use", "devote"],
+      "loaitu": "v",
+      "nghiatiengviet": "dành (thời gian, tiền...)"
+    },
+    {
+      "tuvung": "make the decision",
+      "dongnghia": ["choose", "opt for", "determine"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "đưa ra quyết định"
+    },
+    {
+      "tuvung": "responsibility",
+      "dongnghia": ["duty", "obligation", "commitment"],
+      "loaitu": "n",
+      "nghiatiengviet": "trách nhiệm"
+    },
+    {
+      "tuvung": "raising children",
+      "dongnghia": ["child-rearing", "parenting"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "nuôi dạy con cái"
+    },
+    {
+      "tuvung": "have children",
+      "dongnghia": ["start a family", "become parents", "bear children"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "có con"
+    },
+    {
+      "tuvung": "devote time",
+      "dongnghia": ["commit time", "spend time", "prioritize"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "dành thời gian"
+    }
+  ],
+  "conversation": [
+    "Lan: Bạn nghĩ khi nào nên {5} cho gia đình?",
+    "Nam: Mọi người cần {1} trước khi {4}.",
+    "Lan: Cha mẹ có nhiều {2} với con cái.",
+    "Nam: {3} không phải chuyện dễ dàng."
+  ]
+}

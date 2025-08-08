@@ -1,0 +1,56 @@
+{
+  "title": "Ảnh hưởng của các yếu tố xã hội",
+  "tuvung": [
+    {
+      "tuvung": "lead to",
+      "dongnghia": ["result in", "cause", "bring about"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "dẫn đến"
+    },
+    {
+      "tuvung": "negative effects",
+      "dongnghia": ["adverse impacts", "harmful consequences"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "ảnh hưởng tiêu cực"
+    },
+    {
+      "tuvung": "on women",
+      "dongnghia": ["affecting females", "impacting mothers"],
+      "loaitu": "prep.p",
+      "nghiatiengviet": "đối với phụ nữ"
+    },
+    {
+      "tuvung": "on society",
+      "dongnghia": ["influencing the community", "impacting the public"],
+      "loaitu": "prep.p",
+      "nghiatiengviet": "đối với xã hội"
+    },
+    {
+      "tuvung": "causes",
+      "dongnghia": ["reasons", "factors", "explanations"],
+      "loaitu": "n",
+      "nghiatiengviet": "nguyên nhân"
+    },
+    {
+      "tuvung": "possible effects",
+      "dongnghia": ["potential consequences", "expected impacts"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "những tác động có thể có"
+    },
+    {
+      "tuvung": "on both family and society",
+      "dongnghia": ["at the personal and societal level"],
+      "loaitu": "prep.p",
+      "nghiatiengviet": "đối với cả gia đình và xã hội"
+    }
+  ],
+  "conversation": [
+    "Nam: Thuốc lá có thể {0} các vấn đề sức khỏe.",
+    "Lan: Quy định mới có {1} lên học sinh.",
+    "Nam: Quyết định này ảnh hưởng {2}.",
+    "Lan: Ô nhiễm có tác động xấu {3}.",
+    "Nam: Bạn biết {4} chính của biến đổi khí hậu không?",
+    "Lan: Bài báo giải thích {5} của thức ăn nhanh.",
+    "Nam: Luật này ảnh hưởng {6}."
+  ]
+}

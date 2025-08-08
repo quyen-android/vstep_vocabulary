@@ -1,0 +1,49 @@
+{
+  "title": "Giao tiếp và công nghệ",
+  "tuvung": [
+    {
+      "tuvung": "generally believed",
+      "dongnghia": ["widely accepted", "commonly thought"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "được tin tưởng rộng rãi"
+    },
+    {
+      "tuvung": "the Internet",
+      "dongnghia": ["the web", "the online world", "cyberspace"],
+      "loaitu": "n",
+      "nghiatiengviet": "Internet"
+    },
+    {
+      "tuvung": "excellent",
+      "dongnghia": ["outstanding", "exceptional", "highly effective"],
+      "loaitu": "adj",
+      "nghiatiengviet": "tuyệt vời"
+    },
+    {
+      "tuvung": "means of communication",
+      "dongnghia": ["mode of communication", "way of interacting"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "phương tiện giao tiếp"
+    },
+    {
+      "tuvung": "suggest",
+      "dongnghia": ["argue", "claim", "propose"],
+      "loaitu": "v",
+      "nghiatiengviet": "cho rằng, đề xuất"
+    },
+    {
+      "tuvung": "may not be",
+      "dongnghia": ["might not be", "is possibly not"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "có thể không phải"
+    }
+  ],
+  "conversation": [
+    "Lan: It is {0} that exercise is good for health.",
+    "Nam: Nhiều người sử dụng {1} mỗi ngày.",
+    "Lan: Cô ấy là một học sinh {2} môn toán.",
+    "Nam: Email là một {3} nhanh chóng.",
+    "Lan: Tôi {4} đi công viên cuối tuần này.",
+    "Nam: Câu chuyện đó {5} đúng."
+  ]
+}

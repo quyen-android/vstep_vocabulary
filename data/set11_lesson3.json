@@ -1,0 +1,49 @@
+{
+  "title": "Viết luận và tranh luận về giao thông",
+  "tuvung": [
+    {
+      "tuvung": "write an essay",
+      "dongnghia": ["compose an essay", "draft an academic paper"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "viết một bài luận"
+    },
+    {
+      "tuvung": "for example",
+      "dongnghia": ["such as", "like", "including"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "ví dụ"
+    },
+    {
+      "tuvung": "takes place",
+      "dongnghia": ["occurs", "happens", "is conducted"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "diễn ra"
+    },
+    {
+      "tuvung": "others argue",
+      "dongnghia": ["some counter", "others claim", "opposing views suggest"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "những người khác cho rằng"
+    },
+    {
+      "tuvung": "continuous process",
+      "dongnghia": ["lifelong journey", "ongoing learning", "never-ending cycle"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "quá trình liên tục"
+    },
+    {
+      "tuvung": "rather than",
+      "dongnghia": ["instead of", "as opposed to"],
+      "loaitu": "conj.",
+      "nghiatiengviet": "hơn là"
+    }
+  ],
+  "conversation": [
+    "Lan: Giáo viên yêu cầu chúng tôi {0} về giao thông.",
+    "Nam: {1} Hà Nội và Bangkok có nhiều vấn đề.",
+    "Lan: Sự kiện này {2} hàng năm vào tháng Sáu.",
+    "Nam: {3} việc xây cầu mới tốn kém.",
+    "Lan: Học tập là một {4} suốt đời.",
+    "Nam: Chọn đi bộ {5} lái xe giúp giảm tai nạn."
+  ]
+}

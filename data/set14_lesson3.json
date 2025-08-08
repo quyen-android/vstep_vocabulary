@@ -1,0 +1,60 @@
+{
+  "title": "Vấn đề béo phì ở trẻ em - Phần 2",
+  "tuvung": [
+    {
+      "tuvung": "some possible solutions",
+      "dongnghia": ["several potential remedies", "effective interventions"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "một số giải pháp khả thi"
+    },
+    {
+      "tuvung": "to deal with",
+      "dongnghia": ["to tackle", "to address", "to combat"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "để giải quyết"
+    },
+    {
+      "tuvung": "cases",
+      "dongnghia": ["situations", "examples"],
+      "loaitu": "n",
+      "nghiatiengviet": "trường hợp"
+    },
+    {
+      "tuvung": "especially",
+      "dongnghia": ["particularly", "notably"],
+      "loaitu": "adv",
+      "nghiatiengviet": "đặc biệt là"
+    },
+    {
+      "tuvung": "among",
+      "dongnghia": ["between", "in the group of"],
+      "loaitu": "prep.",
+      "nghiatiengviet": "trong số, giữa"
+    },
+    {
+      "tuvung": "among the young",
+      "dongnghia": ["among young people"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "trong giới trẻ"
+    },
+    {
+      "tuvung": "impacts",
+      "dongnghia": ["effects", "influences"],
+      "loaitu": "n",
+      "nghiatiengviet": "tác động, ảnh hưởng"
+    },
+    {
+      "tuvung": "leading",
+      "dongnghia": ["main", "top"],
+      "loaitu": "adj",
+      "nghiatiengviet": "hàng đầu, chính"
+    }
+  ],
+  "conversation": [
+    "Lan: Báo cáo đưa ra {0} để giảm béo phì ở trẻ em.",
+    "Minh: Chính phủ cần hành động {1} vấn đề này.",
+    "Lan: Trong một số {2}, học sinh học tốt hơn ở nhà.",
+    "Minh: Vấn đề này {4} xuất hiện {5} và gây nhiều {6}.",
+    "Lan: Các chuyên gia là những người {7} trong lĩnh vực này."
+  ]
+}

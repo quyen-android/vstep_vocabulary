@@ -1,0 +1,66 @@
+{
+  "title": "Ô nhiễm và trách nhiệm bảo vệ môi trường",
+  "tuvung": [
+    {
+      "tuvung": "causes",
+      "dongnghia": ["leads to", "results in", "contributes to"],
+      "loaitu": "v",
+      "nghiatiengviet": "gây ra"
+    },
+    {
+      "tuvung": "air pollution",
+      "dongnghia": ["environmental contamination", "poor air quality"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "ô nhiễm không khí"
+    },
+    {
+      "tuvung": "humans",
+      "dongnghia": ["people", "mankind", "individuals"],
+      "loaitu": "n",
+      "nghiatiengviet": "con người"
+    },
+    {
+      "tuvung": "are facing",
+      "dongnghia": ["are encountering", "are dealing with"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "đang đối mặt với"
+    },
+    {
+      "tuvung": "individuals",
+      "dongnghia": ["citizens", "ordinary people", "members of society"],
+      "loaitu": "n",
+      "nghiatiengviet": "cá nhân"
+    },
+    {
+      "tuvung": "are not responsible for",
+      "dongnghia": ["are not accountable for", "should not be blamed for"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "không có trách nhiệm"
+    },
+    {
+      "tuvung": "solving",
+      "dongnghia": ["tackling", "addressing", "dealing with"],
+      "loaitu": "v",
+      "nghiatiengviet": "giải quyết"
+    },
+    {
+      "tuvung": "the government",
+      "dongnghia": ["the authorities", "the state", "policymakers"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "chính phủ"
+    },
+    {
+      "tuvung": "take responsibility for",
+      "dongnghia": ["be accountable for", "be in charge of"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "chịu trách nhiệm về"
+    }
+  ],
+  "conversation": [
+    "Lan: Ô nhiễm không khí {0} nhiều bệnh tật.",
+    "Nam: {1} {2} nhiều vấn đề môi trường hiện nay.",
+    "Lan: Một số người cho rằng {4} {5} ô nhiễm.",
+    "Nam: Nhưng {7} cần {8} bảo vệ rừng.",
+    "Lan: Chúng ta nên tập trung {6} các vấn đề toàn cầu."
+  ]
+}

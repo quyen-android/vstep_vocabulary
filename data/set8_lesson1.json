@@ -1,0 +1,49 @@
+{
+  "title": "Nghiên cứu y khoa và ảnh hưởng của thuốc lá",
+  "tuvung": [
+    {
+      "tuvung": "medical studies",
+      "dongnghia": ["research in medicine"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "các nghiên cứu y khoa"
+    },
+    {
+      "tuvung": "show",
+      "dongnghia": ["prove"],
+      "loaitu": "v",
+      "nghiatiengviet": "chỉ ra"
+    },
+    {
+      "tuvung": "lead to",
+      "dongnghia": ["cause", "result in"],
+      "loaitu": "v",
+      "nghiatiengviet": "gây ra, dẫn đến"
+    },
+    {
+      "tuvung": "smoker",
+      "dongnghia": ["active smoker"],
+      "loaitu": "n",
+      "nghiatiengviet": "người hút thuốc"
+    },
+    {
+      "tuvung": "people close by",
+      "dongnghia": ["people around → passive smokers"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "người bên cạnh (bị ảnh hưởng bởi khói thuốc)"
+    },
+    {
+      "tuvung": "ban",
+      "dongnghia": ["prohibit"],
+      "loaitu": "v",
+      "nghiatiengviet": "cấm"
+    }
+  ],
+  "conversation": [
+    "Lan: Các {0} cho thấy hút thuốc rất nguy hiểm.",
+    "Nam: Kết quả {1} thuốc an toàn để dùng.",
+    "Lan: Ăn nhiều đường có thể {2} các vấn đề sức khỏe.",
+    "Nam: Anh ấy là một {3} đã 10 năm.",
+    "Lan: Hút thuốc không chỉ ảnh hưởng bạn mà còn {4}.",
+    "Nam: Nhiều nước đã {5} hút thuốc nơi công cộng."
+  ]
+}

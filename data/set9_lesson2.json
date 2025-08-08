@@ -1,0 +1,35 @@
+{
+  "title": "Xu hướng làm việc từ xa và du lịch quốc tế",
+  "tuvung": [
+    {
+      "tuvung": "more and more",
+      "dongnghia": ["an increasing number of", "a growing trend of"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "ngày càng nhiều"
+    },
+    {
+      "tuvung": "internationally",
+      "dongnghia": ["overseas", "abroad"],
+      "loaitu": "adv",
+      "nghiatiengviet": "quốc tế, ở nước ngoài"
+    },
+    {
+      "tuvung": "cost of travelling",
+      "dongnghia": ["travel expenses", "cost of transportation"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "chi phí du lịch"
+    },
+    {
+      "tuvung": "overseas",
+      "dongnghia": ["internationally", "abroad"],
+      "loaitu": "adv",
+      "nghiatiengviet": "ở nước ngoài"
+    }
+  ],
+  "conversation": [
+    "Nam: {0} người chọn làm việc từ xa.",
+    "Lan: Cô ấy muốn làm việc {1} sau khi tốt nghiệp.",
+    "Nam: {2} đã giảm trong những năm gần đây.",
+    "Lan: Anh trai tôi đang học {3}."
+  ]
+}

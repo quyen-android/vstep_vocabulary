@@ -1,0 +1,125 @@
+{
+  "title": "Ảnh hưởng và giải pháp cho brain drain - Phần 2",
+  "tuvung": [
+    {
+      "tuvung": "scientists",
+      "dongnghia": ["researchers", "scholars"],
+      "loaitu": "n",
+      "nghiatiengviet": "nhà khoa học",
+      "vidu": "Many ______ leave their home country to work abroad."
+    },
+    {
+      "tuvung": "engineers",
+      "dongnghia": ["technical experts"],
+      "loaitu": "n",
+      "nghiatiengviet": "kỹ sư",
+      "vidu": "The company needs more software ______."
+    },
+    {
+      "tuvung": "academics",
+      "dongnghia": ["educators", "intellectuals"],
+      "loaitu": "n",
+      "nghiatiengviet": "giảng viên, học giả",
+      "vidu": "______ at the university are invited to speak overseas."
+    },
+    {
+      "tuvung": "physicians",
+      "dongnghia": ["doctors", "medical practitioners"],
+      "loaitu": "n",
+      "nghiatiengviet": "bác sĩ",
+      "vidu": "______ often move abroad for better pay."
+    },
+    {
+      "tuvung": "move and stay abroad",
+      "dongnghia": ["migrate", "relocate overseas"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "di cư và sống ở nước ngoài",
+      "vidu": "Many young people dream to ______ ______ ______."
+    },
+    {
+      "tuvung": "more developed countries",
+      "dongnghia": ["advanced nations"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "các nước phát triển hơn",
+      "vidu": "______ ______ ______ offer more job opportunities."
+    },
+    {
+      "tuvung": "in search of",
+      "dongnghia": ["seeking", "pursuing"],
+      "loaitu": "prep.",
+      "nghiatiengviet": "để tìm kiếm",
+      "vidu": "They moved to Canada ______ ______ ______ a better life."
+    },
+    {
+      "tuvung": "higher income",
+      "dongnghia": ["better salary", "financial benefits"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "thu nhập cao hơn",
+      "vidu": "Many graduates look for jobs with ______ ______."
+    },
+    {
+      "tuvung": "standard of living",
+      "dongnghia": ["quality of life"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "mức sống",
+      "vidu": "They want to improve their ______ ______ ______."
+    },
+    {
+      "tuvung": "financial loss",
+      "dongnghia": ["economic damage"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "tổn thất tài chính",
+      "vidu": "Brain drain causes serious ______ ______ to home countries."
+    },
+    {
+      "tuvung": "home countries",
+      "dongnghia": ["native countries", "origin countries"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "quốc gia gốc",
+      "vidu": "Talented workers leave their ______ ______ for better lives."
+    },
+    {
+      "tuvung": "solution",
+      "dongnghia": ["remedy", "approach"],
+      "loaitu": "n",
+      "nghiatiengviet": "giải pháp",
+      "vidu": "We need to find a ______ to stop brain drain."
+    },
+    {
+      "tuvung": "overcome this problem",
+      "dongnghia": ["tackle this issue", "resolve this challenge"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "khắc phục vấn đề này",
+      "vidu": "The government is working hard to ______ ______ ______."
+    },
+    {
+      "tuvung": "causes",
+      "dongnghia": ["reasons", "contributing factors"],
+      "loaitu": "n",
+      "nghiatiengviet": "nguyên nhân",
+      "vidu": "The high cost of living is one of the ______ of migration."
+    },
+    {
+      "tuvung": "suggest solutions",
+      "dongnghia": ["propose remedies", "recommend measures"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "đề xuất giải pháp",
+      "vidu": "Experts ______ ______ to stop talent loss."
+    },
+    {
+      "tuvung": "deal with",
+      "dongnghia": ["address", "handle"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "đối phó với",
+      "vidu": "Countries must ______ ______ brain drain urgently."
+    }
+  ],
+  "conversation": [
+    "Minh: Nhiều nhà khoa học và kỹ sư đang làm việc ở nước ngoài.",
+    "Lan: Giảng viên và bác sĩ cũng thường di cư ra nước ngoài để tìm việc tốt hơn.",
+    "Minh: Họ muốn có thu nhập cao hơn và mức sống tốt hơn.",
+    "Lan: Nhưng hiện tượng này gây tổn thất tài chính lớn cho các quốc gia gốc.",
+    "Minh: Chính phủ cần tìm giải pháp và khắc phục vấn đề này.",
+    "Lan: Các chuyên gia cũng đề xuất nhiều cách để đối phó với chảy máu chất xám."
+  ]
+}

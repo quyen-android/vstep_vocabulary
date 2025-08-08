@@ -1,0 +1,66 @@
+{
+  "title": "Khóa học & Ưu nhược điểm",
+  "tuvung": [
+    {
+      "tuvung": "including",
+      "dongnghia": ["consisting of", "comprising"],
+      "loaitu": "prep.",
+      "nghiatiengviet": "bao gồm"
+    },
+    {
+      "tuvung": "online courses",
+      "dongnghia": ["web-based classes", "virtual lessons"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "khóa học trực tuyến"
+    },
+    {
+      "tuvung": "exams",
+      "dongnghia": ["assessments", "tests"],
+      "loaitu": "n",
+      "nghiatiengviet": "bài kiểm tra"
+    },
+    {
+      "tuvung": "replace",
+      "dongnghia": ["take over", "substitute", "supersede"],
+      "loaitu": "v",
+      "nghiatiengviet": "thay thế"
+    },
+    {
+      "tuvung": "traditional classes",
+      "dongnghia": ["face-to-face education", "physical classrooms"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "lớp học truyền thống"
+    },
+    {
+      "tuvung": "in the future",
+      "dongnghia": ["in the coming years", "in the long run"],
+      "loaitu": "adv.p",
+      "nghiatiengviet": "trong tương lai"
+    },
+    {
+      "tuvung": "advantages",
+      "dongnghia": ["benefits", "strengths", "positive aspects"],
+      "loaitu": "n",
+      "nghiatiengviet": "lợi ích"
+    },
+    {
+      "tuvung": "disadvantages",
+      "dongnghia": ["drawbacks", "limitations", "negative aspects"],
+      "loaitu": "n",
+      "nghiatiengviet": "bất lợi"
+    },
+    {
+      "tuvung": "discuss",
+      "dongnghia": ["analyze", "examine", "explore"],
+      "loaitu": "v",
+      "nghiatiengviet": "thảo luận"
+    }
+  ],
+  "conversation": [
+    "Nam: {1} thường {0} nhiều chủ đề {2}.",
+    "Lan: Liệu chúng có thể {3} {4} không?",
+    "Nam: Có, nhưng {4} vẫn quan trọng {5}.",
+    "Lan: Chúng ta nên cân nhắc {6} và {7}.",
+    "Nam: Để {8} kỹ trước khi chọn."
+  ]
+}

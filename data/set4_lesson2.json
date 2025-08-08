@@ -1,0 +1,39 @@
+{
+  "title": "Xu hướng công nghệ trong giáo dục",
+  "tuvung": [
+    {
+      "tuvung": "ever-increasing",
+      "dongnghia": ["continuously growing", "constantly rising"],
+      "loaitu": "adj",
+      "nghiatiengviet": "ngày càng tăng"
+    },
+    {
+      "tuvung": "technology",
+      "dongnghia": ["digital tools", "technological advancements"],
+      "loaitu": "n",
+      "nghiatiengviet": "công nghệ"
+    },
+    {
+      "tuvung": "computers",
+      "dongnghia": ["PCs", "laptops", "electronic devices"],
+      "loaitu": "n",
+      "nghiatiengviet": "máy tính"
+    },
+    {
+      "tuvung": "education",
+      "dongnghia": ["schooling", "learning"],
+      "loaitu": "n",
+      "nghiatiengviet": "giáo dục"
+    },
+    {
+      "tuvung": "positive trend",
+      "dongnghia": ["beneficial movement", "favorable tendency"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "xu hướng tích cực"
+    }
+  ],
+  "conversation": [
+    "Lan: The use of {1} and {2} is {0} in {3}.",
+    "Nam: Yes, it's a {4} that benefits everyone."
+  ]
+}

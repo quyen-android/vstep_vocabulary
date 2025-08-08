@@ -1,0 +1,31 @@
+{
+  "title": "Tác động của công nghệ đến tương tác xã hội - Phần 2",
+  "tuvung": [
+    {
+      "tuvung": "deprive people of real human interaction",
+      "dongnghia": ["reduce face-to-face communication"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "tước đi sự tương tác thực tế giữa con người với nhau",
+      "vidu": "Too much screen time may ______ people ______ ______ ______ ______."
+    },
+    {
+      "tuvung": "these days",
+      "dongnghia": ["nowadays", "in modern times", "in contemporary society"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "ngày nay",
+      "vidu": "______ ______, many people work remotely from home."
+    },
+    {
+      "tuvung": "more and more people",
+      "dongnghia": ["a growing number of individuals", "a rising proportion of people"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "ngày càng nhiều người",
+      "vidu": "______ ______ ______ are moving to big cities."
+    }
+  ],
+  "conversation": [
+    "Minh: Nhưng nếu dùng công nghệ quá nhiều, con người có thể bị tước đi sự tương tác thực tế.",
+    "Lan: Ngày nay, nhiều người làm việc từ xa tại nhà.",
+    "Minh: Và ngày càng nhiều người chuyển đến sống ở các thành phố lớn."
+  ]
+}

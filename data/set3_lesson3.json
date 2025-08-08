@@ -1,0 +1,20 @@
+{
+  "title": "Nguyên nhân & Giải pháp",
+  "tuvung": [
+    { "tuvung": "cause", "dongnghia": ["lead to", "result in"], "loaitu": "v", "nghiatiengviet": "gây ra" },
+    { "tuvung": "condition", "dongnghia": ["disease", "health issue"], "loaitu": "n", "nghiatiengviet": "tình trạng, bệnh lý" },
+    { "tuvung": "heart disease", "dongnghia": ["cardiovascular disease"], "loaitu": "n.p", "nghiatiengviet": "bệnh tim" },
+    { "tuvung": "stroke", "dongnghia": ["brain attack"], "loaitu": "n", "nghiatiengviet": "đột quỵ" },
+    { "tuvung": "type 2 diabetes", "dongnghia": ["metabolic disorder"], "loaitu": "n.p", "nghiatiengviet": "bệnh tiểu đường tuýp 2" },
+    { "tuvung": "certain types of cancer", "dongnghia": ["specific forms of cancer"], "loaitu": "n.p", "nghiatiengviet": "một số loại ung thư" },
+    { "tuvung": "leading causes", "dongnghia": ["primary reasons", "major contributors"], "loaitu": "n.p", "nghiatiengviet": "nguyên nhân hàng đầu" },
+    { "tuvung": "preventable death", "dongnghia": ["avoidable fatality"], "loaitu": "n.p", "nghiatiengviet": "cái chết có thể ngăn ngừa" },
+    { "tuvung": "causes of obesity", "dongnghia": ["factors leading to obesity"], "loaitu": "n.p", "nghiatiengviet": "nguyên nhân béo phì" },
+    { "tuvung": "possible solutions", "dongnghia": ["feasible remedies", "potential fixes"], "loaitu": "n.p", "nghiatiengviet": "giải pháp khả thi" }
+  ],
+  "conversation": [
+    "Lan: {6} {8} là {0} nhiều {1} nghiêm trọng.",
+    "Nam: Chúng gây ra {2}, {3}, {4}, và {5}.",
+    "Lan: Nhiều cái chết là {7}, nên cần tìm {9}."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Đối tượng bị ảnh hưởng",
+  "tuvung": [
+    { "tuvung": "young people", "dongnghia": ["youth", "adolescents"], "loaitu": "n.p", "nghiatiengviet": "người trẻ" },
+    { "tuvung": "more than one-third", "dongnghia": ["over 33%"], "loaitu": "phr.", "nghiatiengviet": "hơn một phần ba" },
+    { "tuvung": "adults", "dongnghia": ["grown-ups", "mature individuals"], "loaitu": "n", "nghiatiengviet": "người trưởng thành" },
+    { "tuvung": "youth", "dongnghia": ["teenagers", "young individuals"], "loaitu": "n", "nghiatiengviet": "thanh thiếu niên" },
+    { "tuvung": "obese", "dongnghia": ["overweight", "excessively fat"], "loaitu": "adj", "nghiatiengviet": "béo phì (dùng cho người)" }
+  ],
+  "conversation": [
+    "Nam: {0} và {3} đang đối mặt với nguy cơ béo phì.",
+    "Lan: Thật vậy, {1} dân số trưởng thành ({2}) là người béo phì.",
+    "Nam: Nhiều {4} trẻ cũng bị ảnh hưởng."
+  ]
+}

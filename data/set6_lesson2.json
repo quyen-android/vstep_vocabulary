@@ -1,0 +1,84 @@
+{
+  "title": "Ý kiến và trách nhiệm xã hội",
+  "tuvung": [
+    {
+      "tuvung": "the best place",
+      "dongnghia": ["the most reliable source", "the most trustworthy platform"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "nơi tốt nhất"
+    },
+    {
+      "tuvung": "find information",
+      "dongnghia": ["look for data", "gather knowledge"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "tìm kiếm thông tin"
+    },
+    {
+      "tuvung": "discuss both views",
+      "dongnghia": ["analyze both perspectives"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "thảo luận cả hai quan điểm"
+    },
+    {
+      "tuvung": "give your own opinion",
+      "dongnghia": ["express your viewpoint"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "đưa ra ý kiến của bạn"
+    },
+    {
+      "tuvung": "make money",
+      "dongnghia": ["generate profit", "earn revenue"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "kiếm tiền"
+    },
+    {
+      "tuvung": "business",
+      "dongnghia": ["company", "corporation", "enterprise"],
+      "loaitu": "n",
+      "nghiatiengviet": "doanh nghiệp"
+    },
+    {
+      "tuvung": "social responsibilities",
+      "dongnghia": ["corporate social duties", "ethical obligations"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "trách nhiệm xã hội"
+    },
+    {
+      "tuvung": "as well as",
+      "dongnghia": ["in addition to", "along with"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "cũng như"
+    },
+    {
+      "tuvung": "to what extent",
+      "dongnghia": ["how much", "how far"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "ở mức độ nào"
+    },
+    {
+      "tuvung": "agree",
+      "dongnghia": ["support", "be in favor of"],
+      "loaitu": "v",
+      "nghiatiengviet": "đồng ý"
+    },
+    {
+      "tuvung": "disagree",
+      "dongnghia": ["oppose", "be against"],
+      "loaitu": "v",
+      "nghiatiengviet": "không đồng ý"
+    }
+  ],
+  "conversation": [
+    "Lan: Đây là {0} để học yên tĩnh.",
+    "Nam: Bạn có thể {1} trực tuyến về bất kỳ chủ đề nào.",
+    "Lan: Bài luận phải {2} một cách rõ ràng.",
+    "Nam: Cuối cùng, bạn cần {3}.",
+    "Lan: Người ta bắt đầu doanh nghiệp để {4}.",
+    "Nam: Anh ấy sở hữu một {5} nhỏ gần nhà.",
+    "Lan: Các công ty lớn nên quan tâm đến {6} của họ.",
+    "Nam: Cô ấy nói tiếng Anh {7} tiếng Pháp.",
+    "Lan: {8} nào bạn đồng ý với ý kiến này?",
+    "Nam: Tôi hoàn toàn {9} với ý kiến của bạn.",
+    "Lan: Một số người lại {10} với tuyên bố này."
+  ]
+}

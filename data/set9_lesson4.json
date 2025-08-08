@@ -1,0 +1,63 @@
+{
+  "title": "Lợi ích và thách thức của du lịch quốc tế",
+  "tuvung": [
+    {
+      "tuvung": "rising travelling",
+      "dongnghia": ["increasing tourism", "growing number of trips"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "sự gia tăng du lịch"
+    },
+    {
+      "tuvung": "international travel",
+      "dongnghia": ["global tourism", "cross-border trips"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "du lịch quốc tế"
+    },
+    {
+      "tuvung": "tourism",
+      "dongnghia": ["travel industry", "hospitality sector"],
+      "loaitu": "n",
+      "nghiatiengviet": "ngành du lịch"
+    },
+    {
+      "tuvung": "developing",
+      "dongnghia": ["expanding", "growing", "flourishing"],
+      "loaitu": "v",
+      "nghiatiengviet": "phát triển"
+    },
+    {
+      "tuvung": "bring benefits",
+      "dongnghia": ["offer advantages", "provide positive impacts"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "mang lại lợi ích"
+    },
+    {
+      "tuvung": "thanks to",
+      "dongnghia": ["due to", "because of"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "nhờ vào"
+    },
+    {
+      "tuvung": "earn a lot of money",
+      "dongnghia": ["make a lot of money"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "kiếm được nhiều tiền"
+    },
+    {
+      "tuvung": "however",
+      "dongnghia": ["nevertheless", "on the other hand"],
+      "loaitu": "adv",
+      "nghiatiengviet": "tuy nhiên"
+    }
+  ],
+  "conversation": [
+    "Nam: Một lý do cho {0} là vé máy bay rẻ hơn.",
+    "Lan: {1} giúp mọi người hiểu về văn hóa khác.",
+    "Nam: {2} rất quan trọng cho kinh tế địa phương.",
+    "Lan: Thị trấn nhỏ này đang {3} nhờ du lịch.",
+    "Nam: Con đường mới sẽ {4} cho làng.",
+    "Lan: {5} mưa, mùa màng phát triển tốt.",
+    "Nam: Hướng dẫn viên du lịch có thể {6} trong kỳ nghỉ.",
+    "Lan: Khách sạn đẹp, {7}, nhưng rất đắt."
+  ]
+}

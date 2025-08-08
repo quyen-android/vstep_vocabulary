@@ -1,0 +1,17 @@
+{
+  "title": "Vấn đề béo phì và xã hội",
+  "tuvung": [
+    { "tuvung": "extract", "dongnghia": ["đoạn trích"], "loaitu": "n", "nghiatiengviet": "đoạn trích" },
+    { "tuvung": "medical journal", "dongnghia": ["tạp chí y học", "tạp chí y khoa"], "loaitu": "n.p", "nghiatiengviet": "tạp chí y học" },
+    { "tuvung": "obesity", "dongnghia": ["excessive weight", "overweight condition"], "loaitu": "n", "nghiatiengviet": "béo phì" },
+    { "tuvung": "serious", "dongnghia": ["severe", "critical"], "loaitu": "adj", "nghiatiengviet": "nghiêm trọng" },
+    { "tuvung": "global problem", "dongnghia": ["worldwide issue", "international concern"], "loaitu": "n.p", "nghiatiengviet": "vấn đề toàn cầu" },
+    { "tuvung": "society", "dongnghia": ["community", "population"], "loaitu": "n", "nghiatiengviet": "xã hội" },
+    { "tuvung": "especially", "dongnghia": ["particularly", "notably"], "loaitu": "adv", "nghiatiengviet": "đặc biệt là" }
+  ],
+  "conversation": [
+    "Lan: Tôi đọc một {0} trong {1} về {2}.",
+    "Nam: {2} là một vấn đề {3} của {4}.",
+    "Lan: Nó ảnh hưởng đến cả {5}, {6} {5} trẻ hơn."
+  ]
+}

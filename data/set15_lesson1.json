@@ -1,0 +1,41 @@
+{
+  "title": "Vấn đề tội phạm vị thành niên - Phần 1",
+  "tuvung": [
+    {
+      "tuvung": "be taken",
+      "dongnghia": ["be extracted", "be derived from"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "được lấy từ"
+    },
+    {
+      "tuvung": "involvement of youth crimes",
+      "dongnghia": ["juvenile delinquency", "youth criminal activity"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "tội phạm vị thành niên"
+    },
+    {
+      "tuvung": "increase",
+      "dongnghia": ["rise", "grow", "go up"],
+      "loaitu": "v",
+      "nghiatiengviet": "tăng"
+    },
+    {
+      "tuvung": "at an alarming rate",
+      "dongnghia": ["rapidly", "dangerously fast"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "ở mức báo động"
+    },
+    {
+      "tuvung": "recent figures",
+      "dongnghia": ["recent statistics", "latest data"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "số liệu gần đây"
+    }
+  ],
+  "conversation": [
+    "Minh: Dữ liệu {0} các báo cáo chính thức.",
+    "Lan: Tội phạm vị thành niên đang {2} {3}.",
+    "Minh: {4} cho thấy mức độ bạo lực trong trường học cũng tăng.",
+    "Lan: Vậy các trường học cần có biện pháp ngăn chặn."
+  ]
+}

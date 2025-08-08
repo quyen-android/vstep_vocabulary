@@ -1,0 +1,55 @@
+{
+  "title": "Từ vựng về hoạt động cộng đồng",
+  "tuvung": [
+    {
+      "tuvung": "believe",
+      "dongnghia": ["think", "argue"],
+      "loaitu": "v",
+      "nghiatiengviet": "tin, nghĩ rằng"
+    },
+    {
+      "tuvung": "unpaid",
+      "dongnghia": ["for free"],
+      "loaitu": "adj",
+      "nghiatiengviet": "miễn phí, không lương"
+    },
+    {
+      "tuvung": "community service",
+      "dongnghia": ["public service"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "hoạt động cộng đồng"
+    },
+    {
+      "tuvung": "compulsory",
+      "dongnghia": ["mandatory"],
+      "loaitu": "adj",
+      "nghiatiengviet": "bắt buộc"
+    },
+    {
+      "tuvung": "working for charity",
+      "dongnghia": ["charity work"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "làm việc cho tổ chức từ thiện"
+    },
+    {
+      "tuvung": "improving the neighborhood",
+      "dongnghia": ["cleaning up the neighborhood"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "cải thiện khu dân cư"
+    },
+    {
+      "tuvung": "To what extent do you agree or disagree?",
+      "dongnghia": ["Do you agree or disagree?"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "Bạn đồng ý tới mức độ nào"
+    }
+  ],
+  "conversation": [
+    "Nam: Tôi {0} học sinh nên tham gia {2}.",
+    "Hoa: Hoạt động đó là {1} hay có lương?",
+    "Nam: Thường là {1}, nhưng {4} rất ý nghĩa.",
+    "Hoa: Có trường còn quy định là {3} nữa.",
+    "Nam: Ngoài ra, còn giúp {5}.",
+    "Hoa: {6}"
+  ]
+}

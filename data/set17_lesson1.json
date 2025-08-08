@@ -1,0 +1,60 @@
+{
+  "title": "Brain Drain và hiện tượng mất nhân tài - Phần 1",
+  "tuvung": [
+    {
+      "tuvung": "collecting information",
+      "dongnghia": ["gathering data"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "thu thập thông tin",
+      "vidu": "He’s good at ______ ______ from different sources."
+    },
+    {
+      "tuvung": "on the Internet",
+      "dongnghia": ["from online sources", "via digital platforms"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "trên Internet",
+      "vidu": "Students often search ______ ______ ______ for homework help."
+    },
+    {
+      "tuvung": "brain drain",
+      "dongnghia": ["talent loss", "intellectual migration"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "chảy máu chất xám",
+      "vidu": "The country is facing ______ ______ of its top scientists."
+    },
+    {
+      "tuvung": "phenomenon",
+      "dongnghia": ["occurrence", "trend"],
+      "loaitu": "n",
+      "nghiatiengviet": "hiện tượng",
+      "vidu": "This is a global ______ happening in many countries."
+    },
+    {
+      "tuvung": "common trend",
+      "dongnghia": ["widespread tendency"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "xu hướng phổ biến",
+      "vidu": "It’s a ______ ______ for young talents to go abroad."
+    },
+    {
+      "tuvung": "developing countries",
+      "dongnghia": ["emerging nations"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "các nước đang phát triển",
+      "vidu": "______ ______ are losing skilled workers to richer nations."
+    },
+    {
+      "tuvung": "high-level educated workers",
+      "dongnghia": ["highly skilled professionals"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "lao động có trình độ cao",
+      "vidu": "______ ______ ______ ______ often move to cities with better jobs."
+    }
+  ],
+  "conversation": [
+    "Lan: Nước ta đang đối mặt với hiện tượng chảy máu chất xám.",
+    "Minh: Đúng rồi, nhiều người tài năng đang ra nước ngoài làm việc.",
+    "Lan: Đây là một xu hướng phổ biến ở các nước đang phát triển.",
+    "Minh: Đặc biệt là những lao động có trình độ cao."
+  ]
+}

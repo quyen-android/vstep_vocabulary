@@ -1,0 +1,59 @@
+{
+  "title": "Học trực tuyến & Đào tạo truyền thống",
+  "tuvung": [
+    {
+      "tuvung": "online learning",
+      "dongnghia": ["e-learning", "virtual education", "internet-based learning"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "học trực tuyến"
+    },
+    {
+      "tuvung": "great",
+      "dongnghia": ["excellent", "beneficial", "highly effective"],
+      "loaitu": "adj",
+      "nghiatiengviet": "tuyệt vời"
+    },
+    {
+      "tuvung": "revolutionary",
+      "dongnghia": ["groundbreaking", "innovative", "transformative"],
+      "loaitu": "adj",
+      "nghiatiengviet": "mang tính cách mạng"
+    },
+    {
+      "tuvung": "alternative",
+      "dongnghia": ["substitute", "replacement", "option"],
+      "loaitu": "n",
+      "nghiatiengviet": "lựa chọn thay thế"
+    },
+    {
+      "tuvung": "traditional training",
+      "dongnghia": ["conventional education", "in-person learning"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "đào tạo truyền thống"
+    },
+    {
+      "tuvung": "distance learning",
+      "dongnghia": ["remote education", "off-campus learning"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "học từ xa"
+    },
+    {
+      "tuvung": "take place",
+      "dongnghia": ["occur", "happen"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "diễn ra"
+    },
+    {
+      "tuvung": "over the Internet",
+      "dongnghia": ["via the web", "through online platforms"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "qua Internet"
+    }
+  ],
+  "conversation": [
+    "Lan: {0} đang trở nên {1} và {2}.",
+    "Nam: Đúng vậy, nó là một {3} cho {4}.",
+    "Lan: Còn {5} thì sao?",
+    "Nam: {5} cũng {6} {7}, rất tiện lợi."
+  ]
+}

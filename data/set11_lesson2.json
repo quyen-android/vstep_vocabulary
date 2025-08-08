@@ -1,0 +1,47 @@
+{
+  "title": "Các giải pháp và tình hình giao thông",
+  "tuvung": [
+    {
+      "tuvung": "to cope with",
+      "dongnghia": ["to tackle", "to deal with", "to handle"],
+      "loaitu": "v.p",
+      "nghiatiengviet": "để đối phó với"
+    },
+    {
+      "tuvung": "construction",
+      "dongnghia": ["building", "development", "establishment"],
+      "loaitu": "n",
+      "nghiatiengviet": "việc xây dựng"
+    },
+    {
+      "tuvung": "new bridges",
+      "dongnghia": ["newly built overpasses", "modern bridges"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "những cây cầu mới"
+    },
+    {
+      "tuvung": "situation",
+      "dongnghia": ["condition", "state", "circumstance"],
+      "loaitu": "n",
+      "nghiatiengviet": "tình hình"
+    },
+    {
+      "tuvung": "does not seem to change much",
+      "dongnghia": ["remains largely the same", "shows little improvement"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "dường như không thay đổi nhiều"
+    },
+    {
+      "tuvung": "solutions",
+      "dongnghia": ["remedies", "measures", "approaches"],
+      "loaitu": "n",
+      "nghiatiengviet": "giải pháp"
+    }
+  ],
+  "conversation": [
+    "Nam: Thành phố xây {2} để giảm tắc đường.",
+    "Lan: Nhưng tình hình {3} vẫn rất nghiêm trọng.",
+    "Nam: Sau nhiều dự án, tình trạng {4}.",
+    "Lan: Chúng ta cần những {5} thiết thực hơn."
+  ]
+}

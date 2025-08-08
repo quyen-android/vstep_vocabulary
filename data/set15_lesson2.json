@@ -1,0 +1,54 @@
+{
+  "title": "Vấn đề tội phạm vị thành niên - Phần 2",
+  "tuvung": [
+    {
+      "tuvung": "violent crime",
+      "dongnghia": ["aggressive offenses", "acts of violence"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "tội phạm bạo lực"
+    },
+    {
+      "tuvung": "youngsters",
+      "dongnghia": ["adolescents", "teenagers", "young individuals"],
+      "loaitu": "n",
+      "nghiatiengviet": "giới trẻ"
+    },
+    {
+      "tuvung": "psychologists",
+      "dongnghia": ["mental health experts", "behavioral scientists"],
+      "loaitu": "n",
+      "nghiatiengviet": "nhà tâm lý học"
+    },
+    {
+      "tuvung": "the social and emotional learning",
+      "dongnghia": ["interpersonal skills development", "emotional intelligence training"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "sự học hỏi về mặt xã hội và cảm xúc"
+    },
+    {
+      "tuvung": "TV programs",
+      "dongnghia": ["television shows", "broadcast content"],
+      "loaitu": "n.p",
+      "nghiatiengviet": "các chương trình truyền hình"
+    },
+    {
+      "tuvung": "are of no real value",
+      "dongnghia": ["are worthless", "lack educational benefits"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "không có giá trị thực sự"
+    },
+    {
+      "tuvung": "for children",
+      "dongnghia": ["for youngsters", "for young children"],
+      "loaitu": "phr.",
+      "nghiatiengviet": "đối với trẻ em"
+    }
+  ],
+  "conversation": [
+    "Lan: {1} thường bị cuốn vào các băng nhóm.",
+    "Minh: Các {2} nói rằng trẻ cần sự hỗ trợ nhiều hơn từ gia đình.",
+    "Lan: Trường học nên dạy {3} trong chương trình học.",
+    "Minh: Nhiều {4} ngày nay nhằm vào trẻ em nhưng lại {5}.",
+    "Lan: Quá nhiều thời gian xem TV không tốt {6}."
+  ]
+}
