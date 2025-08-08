@@ -24,8 +24,8 @@
     }
   ],
   "conversation": [
-    "Minh: Nhưng nếu dùng công nghệ quá nhiều, con người có thể bị tước đi sự tương tác thực tế.",
-    "Lan: Ngày nay, nhiều người làm việc từ xa tại nhà.",
-    "Minh: Và ngày càng nhiều người chuyển đến sống ở các thành phố lớn."
+    "Minh: Nhưng nếu dùng công nghệ quá nhiều, con người có thể bị {1}.",
+    "Lan: {2}, nhiều người làm việc từ xa tại nhà.",
+    "Minh: Và {3} chuyển đến sống ở các thành phố lớn."
   ]
 }

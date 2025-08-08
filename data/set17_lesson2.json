@@ -37,13 +37,6 @@
       "vidu": "Many young people dream to ______ ______ ______."
     },
     {
-      "tuvung": "more developed countries",
-      "dongnghia": ["advanced nations"],
-      "loaitu": "n.p",
-      "nghiatiengviet": "các nước phát triển hơn",
-      "vidu": "______ ______ ______ offer more job opportunities."
-    },
-    {
       "tuvung": "in search of",
       "dongnghia": ["seeking", "pursuing"],
       "loaitu": "prep.",
@@ -93,13 +86,6 @@
       "vidu": "The government is working hard to ______ ______ ______."
     },
     {
-      "tuvung": "causes",
-      "dongnghia": ["reasons", "contributing factors"],
-      "loaitu": "n",
-      "nghiatiengviet": "nguyên nhân",
-      "vidu": "The high cost of living is one of the ______ of migration."
-    },
-    {
       "tuvung": "suggest solutions",
       "dongnghia": ["propose remedies", "recommend measures"],
       "loaitu": "v.p",
@@ -115,11 +101,11 @@
     }
   ],
   "conversation": [
-    "Minh: Nhiều nhà khoa học và kỹ sư đang làm việc ở nước ngoài.",
-    "Lan: Giảng viên và bác sĩ cũng thường di cư ra nước ngoài để tìm việc tốt hơn.",
-    "Minh: Họ muốn có thu nhập cao hơn và mức sống tốt hơn.",
-    "Lan: Nhưng hiện tượng này gây tổn thất tài chính lớn cho các quốc gia gốc.",
-    "Minh: Chính phủ cần tìm giải pháp và khắc phục vấn đề này.",
-    "Lan: Các chuyên gia cũng đề xuất nhiều cách để đối phó với chảy máu chất xám."
+    "Minh: Nhiều {1} và {2} đang làm việc ở nước ngoài.",
+    "Lan: {3} và {4} cũng thường {5} {6} việc tốt hơn.",
+    "Minh: Họ muốn có {7} và {8} tốt hơn.",
+    "Lan: Nhưng hiện tượng này gây {9} lớn cho các {10}.",
+    "Minh: Chính phủ cần tìm {11} và {12}.",
+    "Lan: Các chuyên gia cũng {13} để {14} chảy máu chất xám."
   ]
 }

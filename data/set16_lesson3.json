@@ -31,9 +31,9 @@
     }
   ],
   "conversation": [
-    "Lan: Ô nhiễm không khí là vấn đề nghiêm trọng ở nhiều thành phố.",
-    "Minh: Ô nhiễm gây ảnh hưởng xấu đến con người.",
-    "Lan: Nó cũng tác động đến thực vật và động vật.",
+    "Lan: {1} là vấn đề nghiêm trọng ở nhiều thành phố.",
+    "Minh: Ô nhiễm gây ảnh hưởng xấu {2}.",
+    "Lan: Nó cũng tác động {3} và {4}.",
     "Minh: Vì vậy, chúng ta cần bảo vệ môi trường."
   ]
 }

@@ -52,9 +52,9 @@
     }
   ],
   "conversation": [
-    "Lan: Nước ta đang đối mặt với hiện tượng chảy máu chất xám.",
+    "Lan: Nước ta đang đối mặt với hiện tượng {1} {2}.",
     "Minh: Đúng rồi, nhiều người tài năng đang ra nước ngoài làm việc.",
-    "Lan: Đây là một xu hướng phổ biến ở các nước đang phát triển.",
-    "Minh: Đặc biệt là những lao động có trình độ cao."
+    "Lan: Đây là một {3} ở {4}.",
+    "Minh: Đặc biệt là những {5}."
   ]
 }
