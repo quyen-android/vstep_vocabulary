@@ -1,7 +1,7 @@
 [
   {
     "setId": 1,
-    "setName": "Volunteer Work & Education",
+    "setName": "Chủ đề: 1-2",
     "lessons": [
       { "lessonId": 1, "title": "Community Service", "file": "set1_lesson1.json" },
       { "lessonId": 2, "title": "Quản lý giáo dục", "file": "set1_lesson2.json" },
@@ -10,7 +10,7 @@
   },
   {
     "setId": 2,
-    "setName": "Environment",
+    "setName": "Chủ đề: 3",
     "lessons": [
       { "lessonId": 1, "title": "Climate Change", "file": "set2_lesson1.json" },
       { "lessonId": 2, "title": "Protecting Wildlife", "file": "set2_lesson2.json" }
@@ -18,7 +18,7 @@
   },
   {
     "setId": 3,
-    "setName": "Vấn đề béo phì và sức khỏe",
+    "setName": "Chủ đề: 4",
     "lessons": [
       { "lessonId": 1, "title": "Vấn đề béo phì và xã hội", "file": "set3_lesson1.json" },
       { "lessonId": 2, "title": "Đối tượng bị ảnh hưởng", "file": "set3_lesson2.json" },
@@ -27,7 +27,7 @@
   },
   {
     "setId": 4,
-    "setName": "News and Opinions",
+    "setName": "Chủ đề: 5-6",
     "lessons": [
       { "lessonId": 1, "title": "Tin tức và vai trò", "file": "set4_lesson1.json" },
       { "lessonId": 2, "title": "Quan điểm và tranh luận", "file": "set4_lesson2.json" }
@@ -35,7 +35,7 @@
   },
   {
     "setId": 5,
-    "setName": "Education and Hobbies",
+    "setName": "Chủ đề: 7-8",
     "lessons": [
       { "lessonId": 1, "title": "Giáo dục đại học và công việc", "file": "set5_lesson1.json" },
       { "lessonId": 2, "title": "Sở thích và lợi ích", "file": "set5_lesson2.json" }
@@ -43,7 +43,7 @@
   },
   {
     "setId": 6,
-    "setName": "Technology in Education",
+    "setName": "Chủ đề: 9-10",
     "lessons": [
       { "lessonId": 1, "title": "Công nghệ và xu hướng tích cực", "file": "set6_lesson1.json" },
       { "lessonId": 2, "title": "Ảnh hưởng của công nghệ", "file": "set6_lesson2.json" }
@@ -51,7 +51,7 @@
   },
   {
     "setId": 7,
-    "setName": "University Policies and Student Life",
+    "setName": "Chủ đề: 11",
     "lessons": [
       { "lessonId": 1, "title": "Điểm danh bắt buộc và chính sách", "file": "set7_lesson1.json" },
       { "lessonId": 2, "title": "Tự do và quy định cá nhân", "file": "set7_lesson2.json" }
@@ -59,7 +59,7 @@
   },
   {
     "setId": 8,
-    "setName": "Smoking and Public Health",
+    "setName": "Chủ đề: 12",
     "lessons": [
       { "lessonId": 1, "title": "Tác hại của thuốc lá", "file": "set8_lesson1.json" },
       { "lessonId": 2, "title": "Luật và phản ứng xã hội", "file": "set8_lesson2.json" }
@@ -67,7 +67,7 @@
   },
   {
     "setId": 9,
-    "setName": "Travel and Tourism",
+    "setName": "Chủ đề: 13-14-15",
     "lessons": [
       { "lessonId": 1, "title": "Du lịch và cơ hội", "file": "set9_lesson1.json" },
       { "lessonId": 2, "title": "Ảnh hưởng của du lịch phát triển", "file": "set9_lesson2.json" },
@@ -77,7 +77,7 @@
   },
   {
     "setId": 10,
-    "setName": "Family and Career Development",
+    "setName": "Chủ đề: 16-17",
     "lessons": [
       { "lessonId": 1, "title": "Thời gian và tác động tiêu cực", "file": "set10_lesson1.json" },
       { "lessonId": 2, "title": "Quyết định và trách nhiệm gia đình", "file": "set10_lesson2.json" },
@@ -87,7 +87,7 @@
   },
   {
     "setId": 11,
-    "setName": "Traffic Problems and Solutions",
+    "setName": "Chủ đề: 18-19",
     "lessons": [
       { "lessonId": 1, "title": "Tai nạn giao thông và xây dựng cầu", "file": "set11_lesson1.json" },
       { "lessonId": 2, "title": "Tình hình giao thông và cải tiến", "file": "set11_lesson2.json" },
@@ -96,7 +96,7 @@
   },
   {
     "setId": 12,
-    "setName": "Deforestation and Environment Protection",
+    "setName": "Chủ đề: 20",
     "lessons": [
       { "lessonId": 1, "title": "Nguyên nhân phá rừng", "file": "set12_lesson1.json" },
       { "lessonId": 2, "title": "Giải pháp và trách nhiệm", "file": "set12_lesson2.json" }
@@ -104,7 +104,7 @@
   },
   {
     "setId": 13,
-    "setName": "Online Shopping and Internet Use",
+    "setName": "Chủ đề: 21",
     "lessons": [
       { "lessonId": 1, "title": "Mua hàng trực tuyến và xu hướng", "file": "set13_lesson1.json" },
       { "lessonId": 2, "title": "Lợi ích và hạn chế", "file": "set13_lesson2.json" }
@@ -112,14 +112,14 @@
   },
   {
     "setId": 14,
-    "setName": "Studying Abroad",
+    "setName": "Chủ đề: 22-23",
     "lessons": [
       { "lessonId": 1, "title": "Lợi ích và khó khăn của du học", "file": "set14_lesson1.json" }
     ]
   },
   {
     "setId": 15,
-    "setName": "Youth Crime and Social Issues",
+    "setName": "Chủ đề: 24-25-26-27",
     "lessons": [
       { "lessonId": 1, "title": "Tội phạm vị thành niên và tác động", "file": "set15_lesson1.json" },
       { "lessonId": 2, "title": "Giáo dục xã hội và chương trình TV", "file": "set15_lesson2.json" }
@@ -127,7 +127,7 @@
   },
   {
     "setId": 16,
-    "setName": "Technology Impact and Pollution",
+    "setName": "Chủ đề: 28-29-30",
     "lessons": [
       { "lessonId": 1, "title": "Ảnh hưởng của công nghệ và giao tiếp", "file": "set16_lesson1.json" },
       { "lessonId": 2, "title": "Ô nhiễm không khí và tác động đến sinh vật", "file": "set16_lesson2.json" },
@@ -136,7 +136,7 @@
   },
   {
     "setId": 17,
-    "setName": "Brain Drain and Talent Migration",
+    "setName": "Chủ đề: 31",
     "lessons": [
       { "lessonId": 1, "title": "Chảy máu chất xám và hậu quả", "file": "set17_lesson1.json" },
       { "lessonId": 2, "title": "Nguyên nhân và giải pháp", "file": "set17_lesson2.json" }
